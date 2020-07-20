@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2017 crDroid Android Project
+# Copyright (C) 2020 420rom
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -21,7 +21,7 @@ LOCAL_SRC_FILES := $(call all-subdir-java-files)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := TUBwallpapers
+LOCAL_PACKAGE_NAME := 420wallpapers
 
 LOCAL_RESOURCE_DIR := \
     $(LOCAL_PATH)/res \
