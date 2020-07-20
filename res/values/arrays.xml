@@ -9,6 +9,10 @@
 
 <resources>
     <array name="wallpapers" translatable="false">
+        <item>420rom1</item>
+        <item>420rom2</item>
+        <item>420rom3</item>
+        <item>420rom4</item>
         <item>Bubbly</item>
         <item>Bubbly2</item>
         <item>CrystalLake</item>

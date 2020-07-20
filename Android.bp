@@ -7,7 +7,7 @@
 //
 
 android_app {
-    name: "StatiXOSWalls",
+    name: "420romWallpapers",
     resource_dirs: ["res"],
     sdk_version: "current",
 
